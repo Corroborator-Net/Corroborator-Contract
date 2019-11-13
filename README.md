@@ -7,6 +7,6 @@ Published contract viable on [the rinkey ethereum testnet](https://rinkeby.ether
 
 Address: `0x8385c076D8f78f1E6148853fbB27f12bC58e36EF`
 
-[View all demo auditable data here](https://rinkeby.etherscan.io/address/ 0x8385c076D8f78f1E6148853fbB27f12bC58e36EF)
+[View all demo auditable data here](https://rinkeby.etherscan.io/address/0x8385c076D8f78f1E6148853fbB27f12bC58e36EF)
 .
 
